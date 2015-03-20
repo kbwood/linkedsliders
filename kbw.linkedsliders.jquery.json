@@ -31,7 +31,7 @@
 	"docs": "http://keith-wood.name/linkedSlidersRef.html",
 	"download": "http://keith-wood.name/linkedSliders.html",
 	"dependencies": {
-		"jquery": ">=1.5"
+		"jquery": ">=1.5",
 		"jqueryui": ">=1.7"
 	}
 }
